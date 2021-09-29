@@ -1,0 +1,14 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+article{
+    background-color: bisque;
+}
+nav{
+    background-color: black;
+}
+footer{
+    background-color:chocolate;
+    padding: 25px;
+}
